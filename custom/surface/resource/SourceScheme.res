@@ -462,6 +462,18 @@ Scheme
 			}
 		}
 
+		// This is the center speed display on KSF
+		"Trebuchet24"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"26"
+				"weight"	"700"
+				"outline"	"1"
+			}
+		}
+
 		// HUD numbers
 		// We use multiple fonts to 'pulse' them in the HUD, hence the need for many of near size
 		"HUDNumber"
