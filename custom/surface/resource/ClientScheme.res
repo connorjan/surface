@@ -930,6 +930,19 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		CenterPrintText
+		{
+			// This is the center speed display on KSF if "Center Speed Color" is enabled in the !surftimer options
+			// note that this scales with the screen resolution
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"11"
+				"weight"	"700"
+				"outline"	"1"
+				"antialias"	"1"
+			}
+		}
 		HudHintText
 		{
 			"1"
@@ -1010,7 +1023,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Terminus"
+				"name"		"Tahoma"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -1021,7 +1034,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Terminus"
+				"name"		"Tahoma"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -1148,7 +1161,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Terminus"
+				"name"		"Tahoma"
 				"tall"		"90"
 				"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
